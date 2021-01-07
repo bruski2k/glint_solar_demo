@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glint_solar_demo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/glint_solar_demo/static/js/main.b2898288.chunk.js",
+    "main.js.map": "/glint_solar_demo/static/js/main.b2898288.chunk.js.map",
+    "runtime-main.js": "/glint_solar_demo/static/js/runtime-main.3826afac.js",
+    "runtime-main.js.map": "/glint_solar_demo/static/js/runtime-main.3826afac.js.map",
+    "static/js/2.36a7d07d.chunk.js": "/glint_solar_demo/static/js/2.36a7d07d.chunk.js",
+    "static/js/2.36a7d07d.chunk.js.map": "/glint_solar_demo/static/js/2.36a7d07d.chunk.js.map",
+    "static/js/3.475020ba.chunk.js": "/glint_solar_demo/static/js/3.475020ba.chunk.js",
+    "static/js/3.475020ba.chunk.js.map": "/glint_solar_demo/static/js/3.475020ba.chunk.js.map",
+    "index.html": "/glint_solar_demo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/glint_solar_demo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.36a7d07d.chunk.js.LICENSE.txt": "/glint_solar_demo/static/js/2.36a7d07d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/glint_solar_demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3826afac.js",
+    "static/js/2.36a7d07d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.b2898288.chunk.js"
+  ]
+}
